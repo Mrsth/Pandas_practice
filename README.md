@@ -51,3 +51,15 @@ Nan values stands for "Not a number". It occurs when some values are not in the 
     <li>Filling with average value (Mean)</li>
   </ul>
 </p>
+
+<div>
+<h3>Types of feature: https://www.theclickreader.com/exploratory-data-analysis-with-python/</h3>
+  <ul>
+    <li><b>Numerical/Continuous features:</b> A feature is said to be numerical or continuous if it can take values between any two points or between the minimum or maximum values in         the features column. For example, ‘Age’ is a continuous feature.</li>
+    <li><b>Categorical features:</b> A categorical feature is one that has two or more categories and each value in that feature can be categorised by them. For example, gender is a           categorical variable having two categories (male and female).</li>
+    <li><b>Ordinal features:</b> An ordinal feature is similar to categorical features, but the difference between them is that we can have relative ordering or sorting between the           values. For eg: If we have a feature like Height with values Tall, Medium, Short, then Height is an ordinal variable.</li>
+    <li><b>DateTime features:</b> A feature is said to be a DateTime feature if the feature holds DateTime values. For example, a feature with the value ‘2020/02/01 01:01:00″ is a             DateTime feature. </li>
+    <li><b>Co-ordinate features:</b> A feature is said to be a co-ordinate feature if the feature holds co-ordinate values. For example, a feature with the value ‘(27.7172,                    85.3240)’ is a co-ordinate feature. </li>
+    <li><b>Frequency features:</b> A feature is said to be a frequency feature if the feature holds a count of items as its value.</li>
+  </ul> 
+</div>
